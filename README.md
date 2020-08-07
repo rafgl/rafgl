@@ -1,6 +1,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
+
 Sou Web Developer 💻
 
   📚 &nbsp; Eu me divirto enquanto aprendo a programar
