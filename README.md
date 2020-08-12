@@ -1,8 +1,8 @@
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+I am passionate about solving problems using programming.
 
-Sou Web Developer 💻
+I'm a Web Developer 💻
 
   📚 &nbsp; I have fun while learning to program
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
