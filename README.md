@@ -9,7 +9,6 @@ I'm a Web Developer 💻
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript
  
 ## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafgl/)](https://github.com/rafgl/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/rafgls/)](https://linkedin.com/in/rafgls/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgaedke@gmail.com)](mailto:rafaelgaedke@gmail.com)
 
