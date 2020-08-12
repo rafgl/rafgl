@@ -14,6 +14,9 @@ I'm a Web Developer 💻
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547997017721&text=Hello!)](https://api.whatsapp.com/send?phone=5547997017721&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgaedke@gmail.com)](mailto:rafaelgaedke@gmail.com)
 
+![alt text](https://i.imgur.com/f5Qbthm.jpg)
+
+
 - Thanks for visiting. 
 
 - Enjoy it!! o/
