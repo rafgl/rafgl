@@ -5,8 +5,7 @@ I am passionate about solving problems using programming.
 Becoming a web developer 💻
 
   📚 &nbsp; I have fun while learning to program
- <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
- <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript, but of course, always open to new challenges.
+ <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects.
  
 ## About me 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/rafgls/)](https://linkedin.com/in/rafgls/)
